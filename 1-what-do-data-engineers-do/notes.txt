@@ -1,0 +1,6 @@
+If I will be hired as data engineer to enable data analytics in a company, then 
+-> First of all I will try to understand what type of data can be collected from all the data sources.
+-> Secondly, I will communicate with the stakeholders that what type of analytics they want from the data.
+-> I will also engage with the other data professionals, if any, to understand their viewpoint.
+-> I will understand their requirement and will collect the data relevant to the required analytics.
+-> I will also keep the future in my thought and will collect that data which can improve the data maturity of the company.
